@@ -1,2 +1,4 @@
 # git-learn
-my first git repo -by niti chauhan
+my first git repo 
+<br>
+-by niti chauhan
